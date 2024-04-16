@@ -65,8 +65,10 @@ The Tableau dashboard titled "Literacy Rate in Tamil Nadu" provides a comprehens
 
 The "Literacy Rate in Tamil Nadu" Tableau dashboard serves as a powerful tool for analyzing and addressing gender bias and social disparities in education. By visualizing key metrics related to literacy rates, educational access, and gender representation, this dashboard empowers stakeholders to make data-driven decisions and advocate for positive change in the field of education.
 
+
 ________________________________________
 Author: Mishkat Ahsan
+
 Contact: mdmishkatahsan02@gmail.com 
 
 
